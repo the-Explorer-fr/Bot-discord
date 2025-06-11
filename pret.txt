@@ -1,0 +1,23 @@
+Le quizz de l'informatique
+Salut à toi et bienvenue dans de quizz de l'informatique !
+Dans ce quizz, tu auras une multitude de questions sur l'informatique.
+Es-tu prêt(e) ?
+1️⃣  Oui
+2️⃣  Non
+C'est parti !
+Clique sur la fleche pour continuer
+BONNE RÉPONSE
+mauvaise réponse
++1 point dans le score
+
+Cuestionario del informatico
+Hola y bienvenido en el cuestionario del informatico !
+En este cuestionario, tendrás una multitud de preguntas sobre el informatico.
+Quieres hacerle ?
+1️⃣  Si
+2️⃣  No
+Aqui vamos !
+Hace un clic sorbre la flecha para continuar
+RESPUESTA CORRECTA
+Respuesta incorrecta
++1 punto en la nota final.

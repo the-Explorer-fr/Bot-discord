@@ -1,0 +1,22 @@
+:flag_fr: Besoin d'aide ? / :flag_es: ¿ Necesitas ayuda ?
+:flag_fr:
+=xp : Voir l'image du bot
+=shutdown / =sd + @(user) : montrer que tu veut éteindre le pc d'une personne
+=error404 / =e404 : envoie un gif et dis que tu as eu une erreur 404
+=crash / =c : envoie un gif et dit que tu as crash
+=binary / =b + un nombre : convertit le nombre décimal donné en nombre binaire
+=binary_decimal / =bd + un nombre binaire : convertit le nombre binaire donné en nombre décimal
+=hexadecimal / =hexa + un nombre décimal : convertit le nombre décimal donné en nombre hexadécimal
+=hexadecimal_decimal / =hexad + un nombre hexadécimal : convertit le nombre hexadécimal donné en nombre décimal
+=quizz / =q : lancer le quizz de l'informatique (10 questions avec 22 questions possible)
+
+:flag_es:
+=xp : ver la imagen del bot
+=shutdown / =sd + @(user) : muestrar que quieres apagar el ordenador de una persona
+=error404 / =e404 : envía un gif y dice que has cometido un error 404
+=crash / =c : envía un gif y dice que dejaste de funcionar
+=binary / =b + un número decimal : convierte el número decimal en número binario
+=binary_decimal / =bd + un número binario : convierte el número binario en número decimal
+=hexadecimal / =hexa + un número decimal : convierte el número decimal en número hexadecimal
+=hexadecimal_decimal / =hexad + un número hexadecimal : convierte el número hexadecimal en número decimal
+=quizz / =q : iniciar el Cuestionario del informatico (10 preguntas con 22 preguntas diferentes)

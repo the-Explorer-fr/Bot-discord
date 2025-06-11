@@ -1,0 +1,220 @@
+¿ Qué significan los Mhz para la memoria ram ?
+la velocidad de envío y recuperación de datos de la ram
+la velociad de cálculo de la ram
+
+
+
+La ram no hace calculos, conserva solo los datos y trata rapidamente estas datos.
+
+1
+https://cdn.discordapp.com/attachments/817332910826455040/818948001396817920/best-ram-for-gaming.jpg
+¿ Un ordenador puede funcionar sin tarjeta gráfica \n(ejemplo : tarjeta gráfica Nvidia) ?
+No lo puede
+Si, lo puede
+
+
+
+Un ordenador puede funcionan sin tarjeta grafica. En procesadores, es posible tener una microchip gráfica.
+Un ordenador puede funcionan sin tarjeta grafica. En procesadores, es posible tener una microchip gráfica.
+2
+
+¿ Mi ordenador no quiere funcionar, creo que falta un componente ? Mi ordenadir tiene una placa base con su procesador (amd ryzen 9 3900XT) y su ventilador, 4 módulos de memoria de ram de 16 go individuales, un ssd M.2.
+Falta una tarjeta gráfica para que el ordenador se inicie
+Falta un disco duro
+falta un caja de alimentación
+
+
+Ah, el ordenador no funciona. Creo que estaba el caja de alimentación que falta.
+Mi ordenador funcionar finalmente. ¡ Gracias !
+3
+
+¿ Qué significa SSD (Los SSD permiten conservar los datos del ordenador) ?
+Super Speed Drive
+Solid State Drive
+Solid Speed Drive
+Super Speed Dating
+
+SSD significa Solid State Driver
+
+2
+
+¿ Cuando fue creado el primer portátil ?
+En 1945 immediamente después la gerra
+En 1 antes J-C porque Jésus queria jugar a warzone
+En 1995
+En 1981
+
+Este portátil se llama Osborne 1 y fue creado en 1981.
+Este portátil se llama Osborne 1
+4
+https://cdn.discordapp.com/attachments/817332910826455040/818946615498637382/osborne1.png
+¿ En el algoritmo principal del ordenador, qué es el resultado de 1+1 ?
+2
+10
+11
+666
+
+Para la lógica del ordenador que es el binario 1 + 1 = 10.
+
+2
+
+Hackeur esta una profesión.
+Es verdad
+Es falso
+
+
+
+Hacker esta un verdadera profrsión. Estas hackeur sean remunérado para probar la securidad de sitios web, programas informáticos, ect...\n Hay tambien concursos de hackeur donde los competdores intentan de piratear un sitio web.
+Hacker esta un verdadera profrsión. Estas hackeur sean remunérado para probar la securidad de sitios web, programas informáticos, ect...\n Hay tambien concursos de hackeur donde los competdores intentan de piratear un sitio web.
+1
+
+¿ De donde proviene el nombre Nvidia (Nvidia que es un fabricante de trajeta grafica) ?
+Proviene del nombre de un antepasador del director general de Nvidia Jen-Hsun Huang, su antepasador se llamaba Qin Shi Nividia
+Proviene de Vidian del personage de Star Wars Denetrius Vidian
+Proviene del latín invidia que significa envidia
+
+
+Nvidia Proviene del latín invidia que significa envidia. Es tambien a partir de este nombre que el logo, un logo verde (de envidia) fue creado.
+Nvidia Proviene del latín invidia que significa envidia. Es tambien a partir de este nombre que el logo, un logo verde (de envidia) fue creado.
+3
+https://cdn.discordapp.com/attachments/817332910826455040/877617677462564925/gOaF1FY7sTFRgAAAABJRU5ErkJggg.png
+Dicemos que el sistema de almacenamiento de datos HDD es un disco duro porque para fabriquarle, utilizamos un grande disco en metal.
+Es verdad
+Es falso
+
+
+
+Este systema de almacenamiento de datos se llama disco duro porque los datos se han almacenan en discos rígido de metal o de plástico.
+Este systema de almacenamiento de datos se llama disco duro porque los datos se han almacenan en discos rígido de metal o de plástico.
+2
+
+¿ Con el almacenamiento, los SSD son más rapido que los discos duros HDD pero cuantos veces más rapido ?
+2 veces más rapido
+5 veces más rapido
+8 veces más rapido
+10 veces más rapido
+15 veces más rapido
+Los SSD son 10 veces más rapido que los discos duros HDD.
+
+4
+
+¿ De que material son las agujas al bajo de los procesadores ?
+De cuarzo
+De oro
+De metal
+De papel maché
+
+Las agujas al bajo de los procesadores son de cuarzo.
+
+1
+https://cdn.discordapp.com/attachments/817332910826455040/817335895480729610/Intel.png
+Para que un procesador haga calculos, le enviemos des impulsos eléctricos y la frecuencia cadencial (expresado en Ghz) representa le nombre d'impulsos que reciba el procesador en una segunda. \n¿ Cuantos impulsos puede recibir un procesador para segundo al máximo si su frecuencia cadencial es de 1 Ghz ?
+ciento mil impulsos
+un millión impulsos
+mil milliones de impulsos
+diez mil millones de impulsos
+
+1 Ghz = mil millones de impulsos.
+
+3
+
+¿ Entres estas tipos de puerto USB de tipo A, cuál no existe ?
+USB 1.1
+USB 1.5
+USB 2.0
+USB 3.2
+USB 4.0
+Es el tipo de puerto USB 1.5 que no existe.
+
+2
+https://cdn.discordapp.com/attachments/817332910826455040/877622013412392980/Peripheriques-USB-attention-danger--F.png
+El ordenador el más poderoso del mundo es el ordenador Fugaku y tiene una capacidad de 415 mil billones de calculos por segundo. ¿ En tu opinión, cuantos núcleos de procesador tiene este ordenador ?
+vente mil
+cinco ciento y quarenta mil
+siete miliiones y tres ciento mil
+dies millones
+dos como el ordenador de tu abuela
+El ordenador Fugaku tiene 7,3 milliones de nucleos.
+
+3
+https://cdn.discordapp.com/attachments/817332910826455040/820384439133536256/fugaku-superordinateur.png
+Para minar la criptomoneda, se utiliza la tarjeta gráfica para hacer los cálculos porque los calculos son extremadamente complejos. Sin embargo, podemos utilizar el procesador en lugar de la tarjeta gráfica para minar.
+Es verdad
+Es falso
+
+
+
+Podemos utilizar su procesador para minar gracias a algunos sitios web.
+Podemos utilizar su procesador para minar gracias a algunos sitios web.
+1
+https://cdn.discordapp.com/attachments/817332910826455040/877689200839905280/s-l1000.png
+¿ Cuál es el lenguaje de programación más popular y utilizado en el mundo ?
+Python
+C++
+HTML
+JavaScript
+
+JavaScript es el lenguaje de programación más popular del mundo.
+
+4
+https://cdn.discordapp.com/attachments/817332910826455040/878053765037580450/langage_programation.png
+Los DPI representan el número de clics que el ratón puede captar en un espacio de 1 segundo.
+Es verdad
+Es falso
+
+
+
+Los DPI representan la sensibilidad del ratón / la velocidad de desplazamiento del cursor en la pantalla.
+Los DPI representan la sensibilidad del ratón / la velocidad de desplazamiento del cursor en la pantalla.
+2
+
+¿ Cuál de estos software de programación no puede soportar Python ?
+Visual Studio Code
+eclipse
+PyCharm
+Spyder
+
+Es eclipse que no soporta Python, soporta solo Java.
+
+2
+https://cdn.discordapp.com/attachments/817332910826455040/878052264512737311/logiciels_codage.png
+¿ Qué es el \"Scraping\"?
+El Scraping representa la ruta de los datos transferidos entre un servidor web y un usuario
+El scraping define una técnica para eludir la seguridad de un sitio web/un ordenador/una base de datos/ect...
+El scraping define una técnica que permite extraer información de uno o más sitios web de forma totalmente automática.
+
+
+El scraping define una técnica que permite extraer información de uno o más sitios web de forma totalmente automática.
+
+3
+
+¿ Cuál es la resolución (en píxeles) de una imagen en QHD de formato 16/9 ?
+1920 × 1080
+1280 × 720
+3440 × 1440
+3840 x 2160
+2560 × 1440
+El QHD es una resolución de 1440p que tiene como dimentión en 16/9: 2560 × 1440. \nLa primera posibilidad de respuesta representa una resolución 1080p en un formato 16/9. \nLa segunda representa una resolución 720p en un formato 16/9. \nLa tercera representa una resolución 1440p en un formato 21/9. \nLa cuarta representa una resolución 4k en un formato 21/9.
+El QHD es una resolución de 1440p que tiene como dimentión en 16/9: 2560 × 1440. \nLa primera posibilidad de respuesta representa una resolución 1080p en un formato 16/9. \nLa segunda representa una resolución 720p en un formato 16/9. \nLa tercera representa una resolución 1440p en un formato 21/9. \nLa cuarta representa una resolución 4k en un formato 21/9.
+5
+
+¿ Qué hay en la imagen ?
+Píxeles en el microscopio
+Sólo hay colores, esta imagen viene del programa de Paint y permite que el software cree los colores utilizables
+Una imagen que muestra linux dejar de funcionar
+
+
+La imagen representa píxeles en el microscopio
+
+1
+https://cdn.discordapp.com/attachments/817332910826455040/879404529706205194/Pixels.png
+¿ Cuántos e-mails se enviaron diariamente en 2020 (en promedio) ?
+796.4 millones
+10.7 mil millones
+141.7 mil millones
+306.4 mil millones
+666.9 mil millones
+En 2020, se enviaron 306.4 e-mails cada día (en promedio).
+
+4
+https://cdn.discordapp.com/attachments/817332910826455040/881582136770064464/830x532_939-mails-non-lus-dont-doute-9-interessants.png

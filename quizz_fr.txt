@@ -1,0 +1,220 @@
+Que signifie les Mhz pour les barres de ram ?
+la vitesse de récupération et d'envoi des données des barres de ram
+la vitesse de calcul des barres de ram
+_
+_
+_
+Les barres de ram ne font jamais des calcul elle les stocke temporairement les calculs de l'ordinateur. La ram peut aussi se nommer aussi Mémoire vive.
+_
+1
+https://cdn.discordapp.com/attachments/817332910826455040/818948001396817920/best-ram-for-gaming.jpg
+Un ordinateur peut-il fonctionner sans carte graphique \n(ex : carte graphique Nvidia) ?
+Bien sur que non
+si c'est tout à fait possible
+_
+_
+_
+Un pc peut fonctionner sans carte graphique. Dans des processeurs, il est possible d'avoir une puce graphique, aussi appelé processeur graphique ou coprocesseur graphique.
+Un pc peut fonctionner sans carte graphique. Dans des processeurs, il est possible d'avoir une puce graphique, aussi appelé processeur graphique ou coprocesseur graphique.
+2
+_
+Mon pc ne veut pas s'allumer, je crois qu'il me manque un composant mais lequel ? Mon pc a une carte mère avec son processeur (amd ryzen 9 3900XT) et son ventilateur, 4 barres de 32 go de ram, un ssd M.2.
+Il manque une carte graphique pour que le pc s'allume
+Il manque un disque dur
+Il manque un boitier d'alimentation
+_
+_
+Ah le pc ne s'allume toujours pas. Je crois que c'était le boitier d'alimentation qu'il manquait.
+Enfin il s'allume. Merci !
+3
+_
+Que signifie SSD (Les SSD permettent de stocker les données du pc) ?
+Super Speed Drive
+Solid State Drive
+Solid Speed Drive
+Super Speed Dating
+_
+SSD signifie Solid State Drive.
+_
+2
+_
+En quelle année a été créé le premier ordinateur portable ?
+En 1945 juste après la guerre
+En 1 avant J-C parce que Jésus voulait jouer à warzone
+En 1995
+En 1981
+_
+Ce pc portable se prénome Osborne 1 et fut créé en 1981.
+Ce pc portable se prénome Osborne 1
+4
+https://cdn.discordapp.com/attachments/817332910826455040/818946615498637382/osborne1.png
+D'après l'algorithme de base du pc, combien fait 1+1 ?
+2
+10
+11
+666
+_
+Pour la logique du pc soit le binaire, 1 + 1 = 10.
+_
+2
+_
+Hackeur est un métier.
+Vrai
+Faux
+_
+_
+_
+Hackeur est un métier reconnu sur le monde du travail. Ses hackeur sont payés pour tester la sécurité de sites internet, logiciels, ect...\n Il y a aussi des concours de hackeur où les concurent tentent tous de pirater un site internet.
+Hackeur est un métier reconnu sur le monde du travail. Ses hackeur sont payés pour tester la sécurité de sites internet, logiciels, ect...\n Il y a aussi des concours de hackeur où les concurent tentent tous de pirater un site internet.
+1
+_
+D'où vient le nom Nvidia (Nvidia qui est un fabriquant de carte graphique) ?
+Cela vient du nom d'un des ancêtre du PDG de Nvidia Jen-Hsun Huang, son ancêtre s'appelait Qin Shi Nividia
+Cela vient de Vidian du personnage de Star Wars Denetrius Vidian
+Cela vient du latin invidia qui signifie envie ou jalousie
+_
+_
+Nvidia vient du latin invidia qui signifie envie ou jalousie. C'est aussi à partir de ce nom que le logo, un logo vert (de jalousie) a été créé.
+Nvidia vient du latin invidia qui signifie envie ou jalousie. C'est aussi à partir de ce nom que le logo, un logo vert (de jalousie) a été créé.
+3
+https://cdn.discordapp.com/attachments/817332910826455040/877617677462564925/gOaF1FY7sTFRgAAAABJRU5ErkJggg.png
+On dit qu'un système de stockage HDD est un disque dur car pour le fabriquer, on utilise un gros disque en métal.
+Vrai
+Faux
+_
+_
+_
+Ce système de stockage se nomme disque dur car les données sont stocké dans des disques rigide de métal ou de plastique.
+Ce système de stockage se nomme disque dur car les données sont stocké dans des disques rigide de métal ou de plastique.
+2
+_
+En stockage, les SSD sont plus rapide que les disques dur HDD mais combien de fois plus rapide ?
+2 fois plus rapide
+5 fois plus rapide
+8 fois plus rapide
+10 fois plus rapide
+15 fois plus rapide
+Les disques SSD sont 10 fois plus rapide que les disques dur HDD.
+_
+4
+_
+De quelle matière sont fait les aiguilles sous le processeur ?
+De quartz
+D'or
+De métal
+De papier maché
+_
+Les aiguilles sous les processeurs sont fait de quartz.
+_
+1
+https://cdn.discordapp.com/attachments/817332910826455040/817335895480729610/Intel.png
+Pour qu'un processeur fasse des calculs, on lui envoi des impulsions électrique et la fréquence d'horloge (exprimé en Ghz) représente le nombre d'impulsion que reçoi le processeur par seconde. \nCombien d'impulsions pas seconde peut recevoir un processeur au maximum si sa fréquence d'horloge est de 1 Ghz ?
+cent mille impulsions
+un million d'impulsions
+un milliard d'impultions
+dix milliards d'impulsions
+_
+1 Ghz = un milliard d'impultions.
+_
+3
+_
+Parmi ces types de ports usb type A, lequel n'existe pas ?
+USB 1.1
+USB 1.5
+USB 2.0
+USB 3.2
+USB 4.0
+C'est le USB 1.5 qui n'existe pas.
+_
+2
+https://cdn.discordapp.com/attachments/817332910826455040/877622013412392980/Peripheriques-USB-attention-danger--F.png
+Le pc le plus puissant au monde est l'ordinateur Fugaku et a une capacité de 415 quadrillions de calculs par seconde. À votre avis, combien de coeurs de processeurs a cet ordinateur ?
+vingt-mille
+cinq-cent-quarante-mille
+sept-millions-trois-cent-mille
+dix-millions
+deux comme celui de ta grand-mère
+Le Fugaku a 7,3 millions de coeurs.
+_
+3
+https://cdn.discordapp.com/attachments/817332910826455040/820384439133536256/fugaku-superordinateur.png
+Pour miner de la crypto-monnaie, on utilise la carte graphique pour faire les calculs car ces derniers sont extrêmement complexes. Cependant, nous pouvons aussi utiliser le processeur à la place de la carte graphique pour miner.
+Vrai
+Faux
+_
+_
+_
+On peut utiliser son processeur pour miner grâce à certains sites
+On peut utiliser son processeur pour miner grâce à certains sites
+1
+https://cdn.discordapp.com/attachments/817332910826455040/877689200839905280/s-l1000.png
+Quel est le langage de programmation le plus populaire et le plus utilisé au monde ?
+Python
+C++
+HTML
+JavaScript
+_
+JavaJavaScript est le langage de programmation le plus populaire au monde.
+_
+4
+https://cdn.discordapp.com/attachments/817332910826455040/878053765037580450/langage_programation.png
+Les DPI représentent le nombre de clics que la souris peut capter dans un espace de 1 seconde.
+Vrai
+Faux
+_
+_
+_
+Les DPI représentent la sensibilité de la souris / la vitesse de déplacement du curseur sur l'écran.
+Les DPI représentent la sensibilité de la souris / la vitesse de déplacement du curseur sur l'écran.
+2
+_
+Lequel de ces logiciel de programmation n'est pas capable de supporter Python ?
+Visual Studio Code
+eclipse
+PyCharm
+Spyder
+_
+C'est eclipse qui ne supporte pas Python, il ne supporte que Java.
+_
+2
+https://cdn.discordapp.com/attachments/817332910826455040/878052264512737311/logiciels_codage.png
+Qu'est ce que le \"Scraping\" ?
+Le Scraping représente le trajet des données transférées entre un serveur web et un utilisateur.
+Le scraping définie une technique de contournement de la sécurité d'un site/ordinateur/base de données/ect...
+Le scraping définit une technique permettant d'extraire des informations d'un ou de plusieurs sites web de manière totalement automatique.
+_
+_
+Le scraping définit une technique permettant d'extraire des informations d'un ou de plusieurs sites web de manière totalement automatique.
+_
+3
+_
+Quelle est la définition (en pixel) d'une image en QHD de format 16/9 ?
+1920 × 1080
+1280 × 720
+3440 × 1440
+3840 x 2160
+2560 × 1440
+Le QHD est une définition de 1440p qui a comme dimention en 16/9 : 2560 × 1440. \nLa première posibilité de réponse représente une définition 1080p sur un format 16/9. \nLa deuxième représente une définition 720p sur un format 16/9. \n La troisième représente une définition 1440p sur un format 21/9. \n La quatrième représente une définition 4k sur un format 21/9.
+Le QHD est une définition de 1440p qui a comme dimention en 16/9 : 2560 × 1440. \nLa première posibilité de réponse représente une définition 1080p sur un format 16/9. \nLa deuxième représente une définition 720p sur un format 16/9. \n La troisième représente une définition 1440p sur un format 21/9. \n La quatrième représente une définition 4k sur un format 21/9.
+5
+_
+Qu'est ce que'il y a sur l'image ?
+Des pixel vu au microscope
+Il y a juste des couleurs, cette image vient du programme de Paint et permet au logiciel de créer les couleurs utilisables
+Une image de crash de linux
+_
+_
+Sur l'image, il y a des pixel vu au microscope
+_
+1
+https://cdn.discordapp.com/attachments/817332910826455040/879404529706205194/Pixels.png
+Combien de e-mails ont été envoyé par jour en 2020 (en moyenne) ?
+796.4 millions
+10.7 milliards
+141.7 milliards
+306.4 milliards
+666.9 milliards
+En 2020, 306.4 mails furent envoyés chaque jour (en moyenne).
+_
+4
+https://cdn.discordapp.com/attachments/817332910826455040/881582136770064464/830x532_939-mails-non-lus-dont-doute-9-interessants.png
