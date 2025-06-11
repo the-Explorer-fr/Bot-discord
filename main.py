@@ -8,7 +8,7 @@ from discord.ext import commands
 database = mysql.connector.connect(
   host = "localhost",
   user = "root",
-  password = "Photosky09",
+  password = "root",
 )
 curseur = database.cursor()
 
@@ -364,4 +364,4 @@ async def quizz_command(ctx):
       message = await ctx.send(embed = fin_quizz)
           
 
-bot.run("Nzc3MjQxMTY0NzE3MDk3MDEx.X7AkPg.ndmbI7gnnwB0iFWBVPlvv_41tQQ")
+bot.run("") #token to put
